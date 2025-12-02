@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 800 600">
+  <!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 123)  -->
+  <defs>
+    <style>
+      .st0, .st1 {
+        fill: #2ecc71;
+      }
+
+      .st2, .st3, .st4, .st5 {
+        fill: none;
+      }
+
+      .st2, .st3, .st5 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .st2, .st4 {
+        stroke: #95a5a6;
+        stroke-width: 4px;
+      }
+
+      .st3 {
+        opacity: .2;
+      }
+
+      .st3, .st6, .st1, .st7, .st8 {
+        isolation: isolate;
+      }
+
+      .st3, .st5 {
+        stroke: #2c3e50;
+        stroke-width: 10px;
+      }
+
+      .st6, .st1, .st7 {
+        opacity: .3;
+      }
+
+      .st6, .st9 {
+        fill: #f1c40f;
+      }
+
+      .st7, .st10 {
+        fill: #e74c3c;
+      }
+
+      .st11 {
+        fill: url(#Dégradé_sans_nom);
+      }
+
+      .st12 {
+        fill: #dcdde1;
+      }
+
+      .st8 {
+        fill: url(#Dégradé_sans_nom_2);
+        opacity: .8;
+      }
+
+      .st13 {
+        fill: #3498db;
+      }
+    </style>
+    <linearGradient id="Dégradé_sans_nom" data-name="Dégradé sans nom" x1="-556.53" y1="840.62" x2="-555.53" y2="839.62" gradientTransform="translate(128181 462351) scale(230 -550)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ecf0f1" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#bdc3c7" stop-opacity=".1"/>
+    </linearGradient>
+    <linearGradient id="Dégradé_sans_nom_2" data-name="Dégradé sans nom 2" x1="-556.76" y1="840.37" x2="-555.76" y2="839.37" gradientTransform="translate(128411 462351) scale(230 -550)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ecf0f1" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#bdc3c7" stop-opacity=".1"/>
+    </linearGradient>
+  </defs>
+  <path class="st13" d="M395,317.77c-.47.08-137.05-7.79-137.13-7.79s-5.18,9.55-5.18,9.55c-98.36,44.07-197.06,89.74-295.49,133.71-1.25.51-11.1,4.34-21.2-1.23-6.23-3.44-10.99-9.55-12.35-17.27h0c-1.93-10.97,3.74-21.84,13.77-26.54.49-.23,1-.43,1.52-.61l323.96-113.73c-.18,0-2.33,10.78-2.33,10.78l134.42-54.64"/>
+  <path class="st10" d="M498.01,208.91c.22,0,351.23-155.94,354.67-85.77,2.83,57.72-331.39,133.48-329.86,133.48"/>
+  <path class="st9" d="M522.97,254.95c21.09-5.96,316.38-93.03,332.7-46.69,28.71,81.55-272.93,77.33-311.6,86.57"/>
+  <path class="st0" d="M542.77,293.47c51.87-6.75,328.92-37.06,327.91,13.97-1.19,60.12-283.16,14.21-308.03,22.56"/>
+  <path class="st12" d="M170,455l230-130,230,130-230,130-230-130Z"/>
+  <g>
+    <path class="st2" d="M275,450l40,20v30"/>
+    <circle class="st4" cx="315" cy="505" r="5"/>
+  </g>
+  <circle class="st4" cx="270" cy="450" r="5"/>
+  <path class="st2" d="M280,430l40,20,60-30"/>
+  <circle class="st4" cx="275" cy="425" r="5"/>
+  <circle class="st4" cx="385" cy="420" r="5"/>
+  <path class="st2" d="M550,462.5l-55,27.5-65-27.86"/>
+  <circle class="st4" cx="555" cy="460" r="5"/>
+  <circle class="st4" cx="425" cy="460" r="5"/>
+  <path class="st2" d="M472.05,421.02l40,20,20.73-13.41"/>
+  <circle class="st4" cx="466.39" cy="417.52" r="5"/>
+  <circle class="st4" cx="537.77" cy="425" r="5"/>
+  <path class="st2" d="M350,510l50,30,50-30"/>
+  <circle class="st4" cx="345" cy="505" r="5"/>
+  <circle class="st4" cx="455" cy="505" r="5"/>
+  <path class="st7" d="M492.5,208.91l30.47,47.71-274.82,53.36"/>
+  <path class="st6" d="M248.32,309.98l274.64-53.36,19.72,37.25"/>
+  <path class="st1" d="M248.37,309.81l294.32-15.95,19.96,36.13-167.65-12.23-146.63-7.96Z"/>
+  <path class="st11" d="M395,40l-230,420,230,130V40Z"/>
+  <path class="st8" d="M400,40v550l230-130L400,40Z"/>
+  <path class="st3" d="M170,460l230,130,230-130-230-130-230,130Z"/>
+  <path class="st5" d="M170,460l230,130,230-130"/>
+  <line class="st5" x1="400" y1="40" x2="400" y2="590"/>
+  <line class="st5" x1="400" y1="40" x2="170" y2="460"/>
+  <line class="st5" x1="400" y1="40" x2="630" y2="460"/>
+</svg>
