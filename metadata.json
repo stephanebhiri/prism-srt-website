@@ -1,0 +1,5 @@
+{
+  "name": "Prism SRT",
+  "description": "Professional live streaming solution for SRT/SRTLA routing, transcoding, and distribution with zero-cpu multicast architecture.",
+  "requestFramePermissions": []
+}
